@@ -1,0 +1,13 @@
+{{#if pets}}
+  {{#each pets as |pet|}}
+    <a href="/api/pets/{{pet.pet_id}}">
+      <div class="box box1">
+        <div class="text">
+          <h2 class="pet-name">{{pet.pet_name}}</h2>
+          <h2 class="owner">Owner: {{pet.owner}}</h2>
+        </div>
+        <img src="/images/{{pet.image}}" alt="Pet" />
+      </div>
+    </a>
+  {{/each}}
+{{/if}}

@@ -1,0 +1,56 @@
+[
+  {
+    "pet_name": "Rover",
+    "owner": "Wesley",
+    "address": "Southern Av, 420, Surrey, BC, Canada",
+    "care_level": "low",
+    "description": "White and caramel border collie that needs lots of exercises everyday",
+    "image": "pet1-profile-pic.jpeg",
+    "user_id": 1
+  },
+  {
+    "pet_name": "Mr.Mittens",
+    "owner": "Jackson",
+    "address": "Main St, 40, Toronto, ON, Canada",
+    "care_level": "high",
+    "description": "White and grey tabbie cat that is 9 years old with type 2 diabetes",
+    "image": "pet2-profile-pic.jpeg",
+    "user_id": 1
+  },
+  {
+    "pet_name": "Ceasar",
+    "owner": "Marcus",
+    "address": "Quebec Av, 732, Abbotsford, BC, Canada",
+    "care_level": "mid",
+    "description": "An orange goldfish",
+    "image": "pet3-profile-pic.jpeg",
+    "user_id": 1
+  },
+  {
+    "pet_name": "Tito",
+    "owner": "Marcus",
+    "address": "Patterson Av, 20, Longview, BC, Canada",
+    "care_level": "high",
+    "description": "A fancy bearded dragon that enjoys cuddles",
+    "image": "pet4-profile-pic.jpeg",
+    "user_id": 1
+  },
+  {
+    "pet_name": "Munster",
+    "owner": "Wesley",
+    "address": "Sirocco Av, 97, Edmonton, AB, Canada",
+    "care_level": "low",
+    "description": "A brown poddle that is super moody",
+    "image": "pet5-profile-pic.jpeg",
+    "user_id": 1
+  },
+  {
+    "pet_name": "Senor Slithers",
+    "owner": "Wesley",
+    "address": "Richmond Road, 353, Burnaby, BC, Canada",
+    "care_level": "mid",
+    "description": "A white chinchila",
+    "image": "pet6-profile-pic.jpeg",
+    "user_id": 1
+  }
+]
